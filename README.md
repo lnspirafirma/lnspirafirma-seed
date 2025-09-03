@@ -1,1 +1,0 @@
-LNSPIRAREADME.md
